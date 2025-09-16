@@ -4,7 +4,7 @@
 - **Postgres (Supabase/Neon/Railway):** banco relacional barato e confiável.  
 - **MongoDB Atlas:** banco NoSQL gerenciado.  
 - **PlanetScale:** MySQL serverless, escalável.  
-- **Vercel:** deploy rápido de frontend (Next.js).  
+- **Vercel:** deploy rápido de frontend.  
 - **Fly.io:** roda apps full-stack globalmente.  
 - **Cloudflare (Pages/Workers/R2):** CDN, serverless e storage low-cost.  
 - **Contabo:** VPS barato com bom custo/benefício (Alemanha/EUA).  
@@ -14,12 +14,13 @@
 
 ## Frontend & Design
 - **Next.js:** framework React popular para web e API.  
-- **Nuxt:** framework Vue.js para SSR/SSG, equivalente ao Next.js.  
-- **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas em React.  
+- **Nuxt:** framework Vue.js para SSR/SSG focado em DX.  
+- **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas.  
 - **Nuqs:** gerenciamento de estado via URL queries no React/Next.  
 - **Figma:** padrão para protótipos de UI.  
 - **Coolors:** gerador de paletas de cores.  
 - **Undraw:** ilustrações gratuitas em SVG.
+- **[Dribbble](https://dribbble.com/)** inpiração pra UI/UX
 
 - ## Internacionalização & Conteúdo
 - **Localize:** plataforma SaaS para tradução e i18n.  
@@ -27,7 +28,7 @@
 - **Content Collections:** schemas tipados para conteúdo estático (Markdown/MDX).  
 
 ## Pagamentos 
-- **AbacatePay 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
+- **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
 - **Stripe:** padrão global de billing e pagamentos online.  
 
 ## Segurança
@@ -84,4 +85,4 @@ Vou continuar adicionando outras ferramentas.
 .
 .
 
-Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev/)
+Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev/utm_source=github)
