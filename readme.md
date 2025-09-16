@@ -13,19 +13,19 @@
 - **Infisical:** gerenciador open source de segredos (secrets manager).  
 
 ## Frontend & Design
-- **Next.js:** framework React popular para web e API.  
-- **Nuxt:** framework Vue.js para SSR/SSG focado em DX.  
-- **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas.  
-- **Nuqs:** gerenciamento de estado via URL queries no React/Next.  
-- **Figma:** padrão para protótipos de UI.  
-- **Coolors:** gerador de paletas de cores.  
-- **Undraw:** ilustrações gratuitas em SVG.
+- **Next.js:** framework React popular para web e API.
+- **Nuxt:** framework Vue.js para SSR/SSG focado em DX.
+- **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas.
+- **Nuqs:** gerenciamento de estado via URL queries no React/Next.
+- **Figma:** padrão para protótipos de UI.
+- **Coolors:** gerador de paletas de cores.
+- **Undraw:** ilustrações gratuitas em SVG
 - **[Dribbble](https://dribbble.com/)** inpiração pra UI/UX
 
-- ## Internacionalização & Conteúdo
-- **Localize:** plataforma SaaS para tradução e i18n.  
-- **Crowdin:** gestão de traduções colaborativas.  
-- **Content Collections:** schemas tipados para conteúdo estático (Markdown/MDX).  
+## Internacionalização & Conteúdo
+- **Localize:** plataforma SaaS para tradução e i18n.
+- **Crowdin:** gestão de traduções colaborativas.
+- **Content Collections:** schemas tipados para conteúdo estático (Markdown/MDX).
 
 ## Pagamentos 
 - **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
@@ -72,7 +72,7 @@
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
 - **Mintlify:** docs SaaS com design pronto.  
-- **Circle:** comunidade.  
+- **Circle:** plataforma completa para comunidades.  
 - **Discord:** comunidade em tempo real.  
 - **Discourse:** fórum open source.
 
