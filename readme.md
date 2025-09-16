@@ -7,24 +7,44 @@
 - **Vercel:** deploy rápido de frontend (Next.js).  
 - **Fly.io:** roda apps full-stack globalmente.  
 - **Cloudflare (Pages/Workers/R2):** CDN, serverless e storage low-cost.  
+- **Contabo:** VPS barato com bom custo/benefício (Alemanha/EUA).  
+- **Hetzner:** servidores dedicados e cloud europeu a preço baixo.  
+- **DigitalOcean VPS:** alternativa simples ao AWS/GCP, popular para indie devs.  
+- **Infisical:** gerenciador open source de segredos (secrets manager).  
 
 ## Frontend & Design
 - **Next.js:** framework React popular para web e API.  
+- **Nuxt:** framework Vue.js para SSR/SSG, equivalente ao Next.js.  
+- **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas em React.  
+- **Nuqs:** gerenciamento de estado via URL queries no React/Next.  
 - **Figma:** padrão para protótipos de UI.  
 - **Coolors:** gerador de paletas de cores.  
-- **Undraw:** ilustrações gratuitas em SVG.  
+- **Undraw:** ilustrações gratuitas em SVG.
+
+- ## Internacionalização & Conteúdo
+- **Localize:** plataforma SaaS para tradução e i18n.  
+- **Crowdin:** gestão de traduções colaborativas.  
+- **Content Collections:** schemas tipados para conteúdo estático (Markdown/MDX).  
+
+## Pagamentos 
+- **AbacatePay 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
+- **Stripe:** padrão global de billing e pagamentos online.  
 
 ## Segurança
 - **OWASP ZAP:** scanner de vulnerabilidades open source.  
 - **Burp Suite (Community):** proxy para testes de segurança.  
 - **SecurityHeaders.com:** valida headers HTTP.  
-- **Snyk:** detecta falhas em dependências.  
+- **Snyk:** detecta falhas em dependências.
+
+## Autenticação
+- **Clerk:** auth SaaS com UI pronta.  
+- **Supabase** Auth como BaaS (Backend as a service).
+- **Auth.js:** autenticação flexível para Node/Next.js.  
+
+## Emails
+- **Resend:** e-mails transacionais via API.  
 
 ## APIs & Serviços
-- **Auth.js:** autenticação flexível para Node/Next.js.  
-- **Clerk:** auth SaaS com UI pronta.  
-- **Stripe:** padrão para pagamentos online.  
-- **Resend:** e-mails transacionais via API.  
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
 
@@ -35,7 +55,6 @@
 - **Simple Analytics:** analytics que prioriza a privacidade..  
 - **Clarity:** mapas de calor e gravações de sessões gratuitos.  
 - **Uptime Kuma:** monitor de uptime self-host.  
-
 
 ## CI/CD
 - **GitHub Actions:** CI/CD integrado ao GitHub.  
