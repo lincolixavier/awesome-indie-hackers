@@ -85,4 +85,4 @@ Vou continuar adicionando outras ferramentas.
 .
 .
 
-Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev/utm_source=github)
+Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev?utm_source=github)
