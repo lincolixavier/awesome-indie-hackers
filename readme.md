@@ -1,8 +1,8 @@
 # Indie Hacking Awesome — Ferramentas & Recursos pra construir seu SaaS
 
 ## Infra
-- **Postgres (Supabase/Neon/Railway):** banco relacional barato e confiável.  
-- **MongoDB Atlas:** banco NoSQL gerenciado.  
+- **Postgres ([Supabase](https://supabase.com/)/[Neon](https://neon.com/)/[Railway Postgres](https://railway.com/new/template/postgres)):** banco relacional barato e confiável.  
+- **[MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database):** banco NoSQL gerenciado.  
 - **PlanetScale:** MySQL serverless, escalável.  
 - **Vercel:** deploy rápido de frontend.  
 - **Fly.io:** roda apps full-stack globalmente.  
