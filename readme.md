@@ -11,6 +11,7 @@
 - **Hetzner:** servidores dedicados e cloud europeu a preço baixo.  
 - **DigitalOcean VPS:** alternativa simples ao AWS/GCP, popular para indie devs.  
 - **Infisical:** gerenciador open source de segredos (secrets manager).  
+- **[VPS para rodar seu N8N](https://www.hostinger.com/br/hospedagem-n8n)** by [Ander](https://x.com/AnderPru)
 
 ## Frontend & Design
 - **Next.js:** framework React popular para web e API.
