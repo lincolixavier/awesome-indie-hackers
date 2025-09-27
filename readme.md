@@ -44,7 +44,8 @@
 - **Auth.js:** autenticação flexível para Node/Next.js.  
 
 ## Emails
-- **Resend:** e-mails transacionais via API.  
+- **[Loops.so](http://loops.so/):** e-mails (Marketing/Campanhas/Transacionais) focado em saas.  
+- **[Resend](http://resend.com/):** e-mails transacionais.
 
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
