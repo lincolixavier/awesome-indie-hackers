@@ -19,7 +19,7 @@
 - **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas.
 - **Nuqs:** gerenciamento de estado via URL queries no React/Next.
 - **Figma:** padrão para protótipos de UI.
-- **Coolors:** gerador de paletas de cores.
+- **[Coolors](https://coolors.co/):** gerador de paletas de cores.
 - **Undraw:** ilustrações gratuitas em SVG
 - **[Dribbble](https://dribbble.com/)** inpiração pra UI/UX
 
