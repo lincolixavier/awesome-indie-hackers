@@ -16,6 +16,7 @@
 ## Frontend & Design
 - **Next.js:** framework React popular para web e API.
 - **Nuxt:** framework Vue.js para SSR/SSG focado em DX.
+- **[Tweakcn](https://tweakcn.com/):** Dezenas de temas prontos com shadcn/ui.
 - **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas.
 - **Nuqs:** gerenciamento de estado via URL queries no React/Next.
 - **Figma:** padrão para protótipos de UI.
