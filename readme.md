@@ -21,8 +21,9 @@
 - **Nuqs:** gerenciamento de estado via URL queries no React/Next.
 - **Figma:** padrão para protótipos de UI.
 - **[Coolors](https://coolors.co/):** gerador de paletas de cores.
-- **Undraw:** ilustrações gratuitas em SVG
-- **[Dribbble](https://dribbble.com/)** inpiração pra UI/UX
+- **Undraw:** ilustrações gratuitas em SVG.
+- **[Dribbble](https://dribbble.com/)** inpiração pra UI/UX.
+- **[Sveltekit](https://svelte.dev/docs/kit/introduction)**: framework moderno para web, SSR/SSG e API.
 
 ## Internacionalização & Conteúdo
 - **Localize:** plataforma SaaS para tradução e i18n.
@@ -32,12 +33,14 @@
 ## Pagamentos 
 - **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
 - **Stripe:** padrão global de billing e pagamentos online.  
+- **[Kiwify](https://kiwify.com.br/):** plataforma de vendas com checkout próprio e gestão de pagamentos, sem exigir CNPJ para começar.
 
 ## Segurança
 - **OWASP ZAP:** scanner de vulnerabilidades open source.  
 - **Burp Suite (Community):** proxy para testes de segurança.  
 - **SecurityHeaders.com:** valida headers HTTP.  
 - **Snyk:** detecta falhas em dependências.
+- **[Cloudflare Turnstile](https://www.cloudflare.com/pt-br/application-services/products/turnstile/):** ferramenta de verificação para substituir CAPTCHAs.
 
 ## Autenticação
 - **Clerk:** auth SaaS com UI pronta.  
@@ -78,6 +81,7 @@
 - **Circle:** plataforma completa para comunidades.  
 - **Discord:** comunidade em tempo real.  
 - **Discourse:** fórum open source.
+- **Docsify:** ferramenta leve para criar sites de documentação a partir de arquivos Markdown.
 
 
 
@@ -89,3 +93,4 @@ Vou continuar adicionando outras ferramentas.
 .
 
 Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev?utm_source=github)
+
