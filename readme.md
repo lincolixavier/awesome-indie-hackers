@@ -21,8 +21,8 @@
 - **Nuqs:** gerenciamento de estado via URL queries no React/Next.
 - **Figma:** padrão para protótipos de UI.
 - **[Coolors](https://coolors.co/):** gerador de paletas de cores.
-- **Undraw:** ilustrações gratuitas em SVG.
-- **[Dribbble](https://dribbble.com/)** inpiração pra UI/UX.
+- **[Undraw](https://undraw.co/):** Ilustrações gratuitas em SVG.
+- **[Dribbble](https://dribbble.com/)** Inspiração pra UI/UX.
 - **[Sveltekit](https://svelte.dev/docs/kit/introduction)**: framework moderno para web, SSR/SSG e API.
 
 ## Internacionalização & Conteúdo
@@ -32,7 +32,7 @@
 
 ## Pagamentos 
 - **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
-- **Stripe:** padrão global de billing e pagamentos online.  
+- **[Stripe](https://stripe.com/en-br):** Padrão global de billing e pagamentos online.  
 - **[Kiwify](https://kiwify.com.br/):** plataforma de vendas com checkout próprio e gestão de pagamentos, sem exigir CNPJ para começar.
 
 ## Segurança
@@ -57,10 +57,6 @@
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.  
-- **PostHog:** analytics de produto e eventos.  
-- **Plausible:** analytics simples e sem cookies.  
-- **Simple Analytics:** analytics que prioriza a privacidade..  
-- **Clarity:** mapas de calor e gravações de sessões gratuitos.  
 - **Uptime Kuma:** monitor de uptime self-host.  
 
 ## CI/CD
@@ -68,12 +64,23 @@
 - **GitLab CI:** alternativa completa de pipelines.  
 - **Pulumi:** infra como código em TypeScript/Python.  
 
+## Analytics
+- **[Himetrica](https://www.himetrica.com/):** Analytics BR feito pra SaaS.  
+- **GA4:** Analytics gratuito do Google
+- **Plausible:** analytics simples e sem cookies.  
+- **Simple Analytics:** analytics que prioriza a privacidade..  
+
+## Métricas de Produto
+- **PostHog:** analytics de produto e eventos.  
+- **Clarity:** mapas de calor e gravações de sessões gratuitos.  
+
+
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
-- **GA4:** analytics gratuito do Google.  
 - **Crisp:** chat de suporte no site.  
+- **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
