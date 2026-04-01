@@ -80,6 +80,7 @@
 - **MailerLite:** e-mail marketing acessível.  
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
+- **[JustBlogged](https://justblogged.com/):** plataforma de blog sem configuração — cadastre-se, escolha um nome e comece a escrever em 2 minutos. SEO integrado, domínios personalizados, temas bonitos. Grátis para sempre, Pro por $9/mês.
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
 
