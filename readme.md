@@ -56,8 +56,9 @@
 - **Algolia:** busca instantânea hospedada.  
 
 ## Observabilidade
-- **Sentry:** captura de erros em produção.  
-- **Uptime Kuma:** monitor de uptime self-host.  
+- **Sentry:** captura de erros em produção.
+- **Uptime Kuma:** monitor de uptime self-host.
+- **[PageGuard](https://pageguard.org):** scanner gratuito de saúde do site — ADA/WCAG acessibilidade, SEO, performance e boas práticas.
 
 ## CI/CD
 - **GitHub Actions:** CI/CD integrado ao GitHub.  
