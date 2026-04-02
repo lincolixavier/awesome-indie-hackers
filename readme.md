@@ -55,6 +55,9 @@
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
 
+## Produtividade Acadêmica
+- **[CiteMe](https://www.citeme.ai/):** gerador de citações acadêmicas com IA. Busca em 11+ bases (OpenAlex, PubMed, Semantic Scholar, CrossRef) e formata em 40+ estilos (ABNT, APA, MLA, Vancouver). Extensão pro Chrome/Firefox, add-on pro Google Docs e add-in pro Word.
+
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
 - **Uptime Kuma:** monitor de uptime self-host.
