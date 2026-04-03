@@ -101,4 +101,4 @@ Vou continuar adicionando outras ferramentas.
 .
 
 Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev?utm_source=github)
-
+- [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga, and screenplay editors. Built-in marketplace for selling stories.
