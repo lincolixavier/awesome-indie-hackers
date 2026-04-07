@@ -54,6 +54,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[RemoteOpenClaw](https://remoteopenclaw.com):** marketplace aberto para skills e personas de IA construído no OpenClaw.
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
