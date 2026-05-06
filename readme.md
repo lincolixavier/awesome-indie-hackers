@@ -91,6 +91,9 @@
 - **Discourse:** fórum open source.
 - **Docsify:** ferramenta leve para criar sites de documentação a partir de arquivos Markdown.
 
+## Consultoria & Serviços
+- **[Sprint Fixer](https://sasn19.github.io/sprint-fixer/):** sprint de 48h com preço fixo pra desbloquear um item específico do seu lançamento — integração Stripe, fluxo de auth, deploy travado ou bug de upgrade. Pagamento em USDC na Base mainnet, sem signup, sem cartão. $249/sprint, $599/3 sprints, $899/recon de fundador.
+
 
 
 Vou continuar adicionando outras ferramentas.
