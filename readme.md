@@ -21,6 +21,7 @@
 - **Nuqs:** gerenciamento de estado via URL queries no React/Next.
 - **Figma:** padrão para protótipos de UI.
 - **[Coolors](https://coolors.co/):** gerador de paletas de cores.
+- **[TinyTools](https://tinytools-smoky.vercel.app/):** coleção de utilitários web gratuitos — paleta de cores, favicon, OG image, removedor de fundo AI (roda local no browser), meta tags SEO, robots.txt e mais. Sem cadastro. Open source.
 - **[Undraw](https://undraw.co/):** Ilustrações gratuitas em SVG.
 - **[Dribbble](https://dribbble.com/)** Inspiração pra UI/UX.
 - **[Sveltekit](https://svelte.dev/docs/kit/introduction)**: framework moderno para web, SSR/SSG e API.
