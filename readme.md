@@ -74,6 +74,7 @@
 ## Métricas de Produto
 - **PostHog:** analytics de produto e eventos.  
 - **Clarity:** mapas de calor e gravações de sessões gratuitos.  
+- **[Beton Inspector](https://github.com/getbeton/inspector):** revenue intelligence open-source; transforma dados de uso do PostHog + CRM em sinais de compra e prioriza as contas mais quentes para vendas. Self-hosted (alternativa open-source ao Pocus / Common Room).  
 
 
 ## Marketing
