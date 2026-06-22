@@ -29,6 +29,7 @@
 - **Localize:** plataforma SaaS para tradução e i18n.
 - **Crowdin:** gestão de traduções colaborativas.
 - **Content Collections:** schemas tipados para conteúdo estático (Markdown/MDX).
+- **[UnfoldCMS](https://unfoldcms.com):** CMS self-hosted (Laravel 12 + React 19 + shadcn/ui) sem mensalidade — ideal para indie hackers que querem controle total do conteúdo.
 
 ## Pagamentos 
 - **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
