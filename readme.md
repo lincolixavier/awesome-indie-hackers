@@ -82,6 +82,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[The Free X Growth Course](https://slappost.app/learn/):** 5 aulas gratuitas (sem login) sobre como crescer no X (Twitter): hooks, threads, o algoritmo open source do X, replies e o funil do seu perfil.  
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
