@@ -56,7 +56,7 @@
 - **Algolia:** busca instantânea hospedada.  
 
 ## Produtividade Acadêmica
-- **[CiteMe](https://www.citeme.ai/):** gerador de citações acadêmicas com IA. Busca em 11+ bases (OpenAlex, PubMed, Semantic Scholar, CrossRef) e formata em 40+ estilos (ABNT, APA, MLA, Vancouver). Extensão pro Chrome/Firefox, add-on pro Google Docs e add-in pro Word.
+- **[CiteMe](https://citeme.app):** gerador de citações acadêmicas. Busca em 10+ bases (OpenAlex, PubMed, Semantic Scholar, CrossRef) e formata em 60 estilos curados (ABNT, APA, MLA, Vancouver). Extensão para Chrome e Firefox.
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.  
