@@ -15,7 +15,7 @@
 - **[Dokploy](https://dokploy.com/):** PaaS self-hosted open source, alternativa ao Coolify com Docker Compose nativo.
 - **[MinIO](https://min.io/):** object storage compatível com S3, self-hosted. Roda local em dev e/ou no seu VPS em prod.
 - **[Redis](https://redis.io/):** cache, filas, sessões e rate-limiting.
-  
+
 ## Frontend & Design
 - **Next.js:** framework React popular para web e API.
 - **Nuxt:** framework Vue.js para SSR/SSG focado em DX.
