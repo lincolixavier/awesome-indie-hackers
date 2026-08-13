@@ -102,3 +102,4 @@ Vou continuar adicionando outras ferramentas.
 
 Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev?utm_source=github)
 - [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga, and screenplay editors. Built-in marketplace for selling stories.
+- [n8n Uptime Ping Alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) - Free n8n workflow that checks a site every 5 minutes and alerts on Telegram only on state change.
