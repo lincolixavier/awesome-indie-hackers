@@ -33,6 +33,7 @@
 ## Pagamentos 
 - **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
 - **[Stripe](https://stripe.com/en-br):** Padrão global de billing e pagamentos online.  
+- **[Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/):** gerador gratuito de faturas e recibos no navegador (PDF, sem conta). [Licença comercial (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-indie-hackers-v1) com white-label, seis modelos e CLI em lote CSV.  
 - **[Kiwify](https://kiwify.com.br/):** plataforma de vendas com checkout próprio e gestão de pagamentos, sem exigir CNPJ para começar.
 
 ## Segurança
