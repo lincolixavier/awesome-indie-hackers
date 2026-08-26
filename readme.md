@@ -83,6 +83,7 @@
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
 - **Loops.so:** automação de e-mails focada em SaaS.  
+- **[OpenPost](https://github.com/rodrgds/openpost):** plataforma open source e autoalojada para preparar, rever e agendar publicações em várias redes sociais.
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
