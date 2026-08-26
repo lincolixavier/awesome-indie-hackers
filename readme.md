@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[Hermes](https://www.buildwithhermes.com):** plataforma white-label para criar e operar agentes de voz com IA, com CRM, campanhas e billing por minuto inclusos. Planos a partir de US$149/mês.  
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
