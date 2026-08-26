@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[Mentioned](https://mentioned.to):** serviço gerenciado de crescimento no Reddit para SEO e busca com IA. Encontra as threads que já ranqueiam no Google para suas palavras-chave, publica posts e comentários nativos por contas gerenciadas e mede o share of voice contra concorrentes. Serviço pago, a partir de US$ 2.000/mês.  
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
