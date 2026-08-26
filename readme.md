@@ -81,6 +81,7 @@
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
 
 ## Marketing
+- [WebCoreLab](https://webcorelab.com) — AI SEO audit + GEO/AEO for indie hackers. Free 272-check audit tier. Toronto.
 - **MailerLite:** e-mail marketing acessível.  
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
