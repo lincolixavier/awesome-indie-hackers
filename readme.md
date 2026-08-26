@@ -12,6 +12,9 @@
 - **DigitalOcean VPS:** alternativa simples ao AWS/GCP, popular para indie devs.  
 - **Infisical:** gerenciador open source de segredos (secrets manager).  
 - **[VPS para rodar seu N8N](https://www.hostinger.com/br/hospedagem-n8n)** by [Ander](https://x.com/AnderPru)
+- **[Dokploy](https://dokploy.com/):** PaaS self-hosted open source, alternativa ao Coolify com Docker Compose nativo.
+- **[MinIO](https://min.io/):** object storage compatível com S3, self-hosted. Roda local em dev e/ou no seu VPS em prod.
+- **[Redis](https://redis.io/):** cache, filas, sessões e rate-limiting.
 
 ## Frontend & Design
 - **Next.js:** framework React popular para web e API.
@@ -25,7 +28,9 @@
 - **[Undraw](https://undraw.co/):** Ilustrações gratuitas em SVG.
 - **[Dribbble](https://dribbble.com/)** Inspiração pra UI/UX.
 - **[Sveltekit](https://svelte.dev/docs/kit/introduction)**: framework moderno para web, SSR/SSG e API.
-
+- **[Preline UI](https://preline.co/):** componentes Tailwind prontos (open-source), alternativa ao shadcn.
+- **[RemixIcon](https://remixicon.com/):** 3.000+ ícones SVG gratuitos (MIT).
+  
 ## Internacionalização & Conteúdo
 - **Localize:** plataforma SaaS para tradução e i18n.
 - **Crowdin:** gestão de traduções colaborativas.
@@ -36,7 +41,8 @@
 - **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
 - **[Stripe](https://stripe.com/en-br):** Padrão global de billing e pagamentos online.  
 - **[Kiwify](https://kiwify.com.br/):** plataforma de vendas com checkout próprio e gestão de pagamentos, sem exigir CNPJ para começar.
-
+- **[Asaas](https://www.asaas.com/):** gateway BR com Pix, boleto, cartão e cobrança recorrente.
+  
 ## Segurança
 - **OWASP ZAP:** scanner de vulnerabilidades open source.  
 - **Burp Suite (Community):** proxy para testes de segurança.  
@@ -52,10 +58,12 @@
 ## Emails
 - **[Loops.so](http://loops.so/):** e-mails (Marketing/Campanhas/Transacionais) focado em saas.  
 - **[Resend](http://resend.com/):** e-mails transacionais.
-
+- **[Mailpit](https://mailpit.axllent.org/):** captura os e-mails da aplicação em desenvolvimento (SMTP fake + inbox web). Testa template e fluxo sem enviar nada real nem gastar cota do Resend/Loops.
+  
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
-- **Algolia:** busca instantânea hospedada.  
+- **Algolia:** busca instantânea hospedada.
+- **Meilisearch:** busca instantânea open-source e self-hosted.
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
@@ -75,7 +83,8 @@
 
 ## Métricas de Produto
 - **PostHog:** analytics de produto e eventos.  
-- **Clarity:** mapas de calor e gravações de sessões gratuitos.  
+- **Clarity:** mapas de calor e gravações de sessões gratuitos.
+- **Unlighthouse:** auditoria Lighthouse em todas as páginas do site de uma vez.
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
@@ -105,5 +114,5 @@ Vou continuar adicionando outras ferramentas.
 .
 .
 
-Aproveita e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev?utm_source=github)
+Aproveite e conheça o starter Kit pro seu SaaS: [Arki](https://www.usearki.dev?utm_source=github)
 - [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga, and screenplay editors. Built-in marketplace for selling stories.
