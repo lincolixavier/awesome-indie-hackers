@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[AnyHook](https://anyhook.net):** relay de webhooks de entrada, guarda cada evento e reenvia quando a entrega falha. Plano free de 3.000 eventos/mês.
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
