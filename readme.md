@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[Workforce Wave](https://www.workforcewave.com/):** agente de voz com IA que atende ligações de negócios 24/7, evitando perder leads por chamadas não atendidas.  
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
