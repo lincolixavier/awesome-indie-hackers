@@ -24,6 +24,7 @@
 - **[Coolors](https://coolors.co/):** gerador de paletas de cores.
 - **[Undraw](https://undraw.co/):** Ilustrações gratuitas em SVG.
 - **[Dribbble](https://dribbble.com/)** Inspiração pra UI/UX.
+- **[Ibis](https://cartonpliant.github.io/ibis/):** compositor de página de oferta no navegador, sem conta. Grátis com marca d'água; Pro 9 € impressão limpa, Markdown e 5 gabaritos.
 - **[Sveltekit](https://svelte.dev/docs/kit/introduction)**: framework moderno para web, SSR/SSG e API.
 
 ## Internacionalização & Conteúdo
