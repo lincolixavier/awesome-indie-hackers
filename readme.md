@@ -97,6 +97,7 @@
 
 ## Gestão de Projetos & Tarefas
 - **[Jira](https://www.atlassian.com/software/jira):** rastreamento de issues e metodologias ágeis (Scrum/Kanban) com versão gratuita disponível.
+- **[YYLO](https://github.com/yylo-dev/yylo):** gerenciamento de tarefas e Kanban direto no repositório Git, com orquestração de agentes de codificação com IA (Codex e outros) — open source e gratuito (MIT).
 
 Vou continuar adicionando outras ferramentas.
 
