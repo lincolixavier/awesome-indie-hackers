@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[shortshort](https://www.shortshort.io/):** transforma um vídeo longo (palestra, podcast, curso) em até 20 shorts verticais 9:16 com legendas palavra por palavra.
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
