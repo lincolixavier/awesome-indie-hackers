@@ -36,6 +36,7 @@
 - **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
 - **[Stripe](https://stripe.com/en-br):** Padrão global de billing e pagamentos online.  
 - **[Kiwify](https://kiwify.com.br/):** plataforma de vendas com checkout próprio e gestão de pagamentos, sem exigir CNPJ para começar.
+- **[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/):** ferramentas gratuitas no browser (invoice, quote, timesheet, SOW) sem cadastro — útil pra freelancers e indie makers fecharem clientes e cobrarem.
 
 ## Segurança
 - **OWASP ZAP:** scanner de vulnerabilidades open source.  
