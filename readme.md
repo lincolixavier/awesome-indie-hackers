@@ -85,6 +85,7 @@
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
+- **[LogNorm](https://lognorm.com):** plataforma de crescimento que prioriza o backlog de SEO e visibilidade em IA (GEO) do seu site e entrega para agentes (Claude Code, Codex, Cursor) via MCP. Plano gratuito disponível.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
 
 ## Comunidade & Suporte
