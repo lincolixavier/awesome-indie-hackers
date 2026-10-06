@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit):** auditoria gratuita de canais do Telegram: quantos inscritos realmente veem os posts, comparação com canais parecidos e previsão de views e CPM de anúncios.  
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
