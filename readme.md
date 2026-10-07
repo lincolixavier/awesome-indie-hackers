@@ -79,6 +79,7 @@
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
+- [FalcoScan](https://falcoscan.com) - Ranking de 7.000+ produtos de IA em 29 mercados: veja quais mercados ainda têm espaço antes de construir.
 
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
