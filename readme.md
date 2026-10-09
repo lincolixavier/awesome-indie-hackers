@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[Ship & Shout](https://www.shipandshout.com/):** transforma seus commits do GitHub e a receita (Stripe/Lemon Squeezy) da semana em um post de build in public pronto, com gráfico. Acesso só leitura, plano grátis.  
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
