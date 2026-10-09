@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[Drevon](https://www.drevon.dev):** app para Mac que conecta ao seu Claude Code ou Codex e o transforma em um operador de GTM de ponta a ponta: pesquisa, trabalho braçal, análises e ações em todo o seu stack a partir de um único prompt, no seu próprio navegador com seus próprios logins.  
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
