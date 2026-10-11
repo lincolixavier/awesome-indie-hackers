@@ -31,6 +31,7 @@
 - **Crowdin:** gestão de traduções colaborativas.
 - **Content Collections:** schemas tipados para conteúdo estático (Markdown/MDX).
 - **[Shotlingo App Store Localization Checker](https://shotlingo.com/tools/app-store-localization-checker):** ferramenta gratuita (sem cadastro) pra checar se o nome, subtítulo e texto promocional do teu app ainda cabem depois de traduzidos — expansão de texto, largura visual e RTL pras 41 línguas da App Store.
+- **[TranslateMyImage](https://translatemyimage.com/):** traduz o texto dentro de imagens (screenshots, banners, fotos de produto) para 45 idiomas e devolve a mesma imagem com o layout original. Plano gratuito com 3 imagens por mês.
 
 ## Pagamentos 
 - **[AbacatePay](https://www.abacatepay.com/) 🥑:** gateway brasileiro para receber em BRL, focado em baixo custo.  
