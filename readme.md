@@ -25,6 +25,7 @@
 - **[Undraw](https://undraw.co/):** Ilustrações gratuitas em SVG.
 - **[Dribbble](https://dribbble.com/)** Inspiração pra UI/UX.
 - **[Sveltekit](https://svelte.dev/docs/kit/introduction)**: framework moderno para web, SSR/SSG e API.
+- **[OMEGA](https://omegajs.dev):** framework que monta site, backend, app desktop e extensão de navegador a partir de um único arquivo de configuração, com autenticação, pagamentos e e-mail já integrados.
 
 ## Internacionalização & Conteúdo
 - **Localize:** plataforma SaaS para tradução e i18n.
