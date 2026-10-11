@@ -52,6 +52,7 @@
 ## Emails
 - **[Loops.so](http://loops.so/):** e-mails (Marketing/Campanhas/Transacionais) focado em saas.  
 - **[Resend](http://resend.com/):** e-mails transacionais.
+- **[day3](https://day3.app/):** newsletters, atualizações de produto e e-mails transacionais via API, focado em SaaS. Cobra por e-mail enviado, não pelo tamanho da lista, a partir de US$1/mês.
 
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
