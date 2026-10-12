@@ -61,6 +61,7 @@
 - **Sentry:** captura de erros em produção.
 - **Uptime Kuma:** monitor de uptime self-host.
 - **[PageGuard](https://pageguard.org):** scanner gratuito de saúde do site — ADA/WCAG acessibilidade, SEO, performance e boas práticas.
+- **[Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker):** rastreador de erros open source (MIT) e self-host para side projects e times pequenos, com erros agrupados, source maps e alertas. Tem plano hospedado gratuito.
 
 ## CI/CD
 - **GitHub Actions:** CI/CD integrado ao GitHub.  
