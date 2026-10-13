@@ -25,6 +25,7 @@
 - **[Undraw](https://undraw.co/):** Ilustrações gratuitas em SVG.
 - **[Dribbble](https://dribbble.com/)** Inspiração pra UI/UX.
 - **[Sveltekit](https://svelte.dev/docs/kit/introduction)**: framework moderno para web, SSR/SSG e API.
+- **[APPLORE](https://applore.app/):** biblioteca com mais de 18.000 ícones reais de apps da App Store e do Google Play, com cada versão antiga salva quando o app troca de ícone; dá pra navegar por cor, estilo e categoria. Plano grátis mostra os primeiros 300 ícones de cada lista; recursos de IA usam créditos pagos.
 
 ## Internacionalização & Conteúdo
 - **Localize:** plataforma SaaS para tradução e i18n.
