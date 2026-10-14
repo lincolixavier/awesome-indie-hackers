@@ -69,6 +69,7 @@
 
 ## Analytics
 - **[Himetrica](https://www.himetrica.com/):** Analytics BR feito pra SaaS.  
+- **[Vaneform](https://vaneform.com/):** consulta gratuita de tráfego e SEO de qualquer site (visitas mensais estimadas, fontes de tráfego, países e palavras-chave), com rankings, API e servidor MCP.
 - **GA4:** Analytics gratuito do Google
 - **Plausible:** analytics simples e sem cookies.  
 - **Simple Analytics:** analytics que prioriza a privacidade..  
