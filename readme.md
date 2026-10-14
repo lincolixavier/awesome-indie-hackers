@@ -85,6 +85,7 @@
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
+- **[Multi Upload Tool](https://multi-upload-tool.com):** agenda e publica um vídeo no TikTok, YouTube Shorts, Instagram, Facebook, LinkedIn, Pinterest, Bluesky, Threads e X a partir de um painel, API REST ou MCP. Plano gratuito disponível.
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
 
 ## Comunidade & Suporte
