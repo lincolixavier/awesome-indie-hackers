@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[CurlShot](https://curlshot.com):** API de screenshots: transforma URL, HTML ou Markdown em PNG, JPEG, WebP ou PDF (OG images, thumbnails, relatórios). Plano grátis com 100 screenshots/mês.  
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
