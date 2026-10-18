@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[Social SDK](https://github.com/opencoredev/social-sdk):** cliente TypeScript de código aberto para publicar e ler conteúdo em várias redes sociais, com integrações diretas e backends gerenciados opcionais.  
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
