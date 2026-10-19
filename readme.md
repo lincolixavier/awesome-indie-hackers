@@ -79,6 +79,7 @@
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
+- **[Agent Cookbook](https://agentcookbook.dev):** diretório gratuito com 75 setups reais de agentes de IA, incluindo 20 com os quais as pessoas ganharam dinheiro, cada um com link da fonte, prompt para copiar e passo a passo.
 
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
