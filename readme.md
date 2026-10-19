@@ -79,6 +79,7 @@
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
+- **[Pulse](https://pulsecorp.co):** Plataforma de pesquisa de mercado moderada por IA que conduz entrevistas com clientes em escala.
 
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
