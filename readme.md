@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[PlaceCall](https://voygr.tech/placecall/):** API e servidor MCP para um agente de IA ligar para empresas nos EUA (reservas, agendamentos, orçamentos) e devolver o resultado e a transcrição.  
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
