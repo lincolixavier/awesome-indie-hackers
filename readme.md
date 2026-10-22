@@ -79,6 +79,7 @@
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
+- **[Tactyl](https://tactyl.co/?ref=github):** guia com IA que valida sua ideia de negócio com uma pontuação ao vivo, organiza tudo num canvas (problema, mercado, concorrência, receita) e libera o construtor do app aos 30%. Plano grátis, sem cartão.
 
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
