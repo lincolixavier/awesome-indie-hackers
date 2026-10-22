@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[PeekPanda](https://peekpanda.com/):** inteligência competitiva para apps iOS: anúncios Meta que um app paga, palavras-chave da App Store em que ele ranqueia e posts virais. Web, API e MCP.  
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
