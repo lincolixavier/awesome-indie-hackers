@@ -61,6 +61,7 @@
 - **Sentry:** captura de erros em produção.
 - **Uptime Kuma:** monitor de uptime self-host.
 - **[PageGuard](https://pageguard.org):** scanner gratuito de saúde do site — ADA/WCAG acessibilidade, SEO, performance e boas práticas.
+- **[Datvero](https://datvero.com/):** monitoramento de workflows n8n, Make e Zapier, com alertas de erro e de sinal ausente (heartbeat).
 
 ## CI/CD
 - **GitHub Actions:** CI/CD integrado ao GitHub.  
