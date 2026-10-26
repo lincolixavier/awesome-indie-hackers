@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[RadarMakers](https://radarmakers.com/):** vitrine onde makers indie lançam seus produtos e recebem avaliações e feedback de outros makers.
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
