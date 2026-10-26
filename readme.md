@@ -76,6 +76,7 @@
 ## Métricas de Produto
 - **PostHog:** analytics de produto e eventos.  
 - **Clarity:** mapas de calor e gravações de sessões gratuitos.  
+- **[WishKit](https://www.wishkit.io/):** quadro de pedidos de funcionalidades dentro do app, para iOS e web, com votação dos usuários. Tem plano gratuito.  
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
