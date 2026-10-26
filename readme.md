@@ -81,6 +81,7 @@
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
 
 ## Marketing
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - **MailerLite:** e-mail marketing acessível.  
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
