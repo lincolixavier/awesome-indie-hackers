@@ -25,6 +25,7 @@
 - **[Undraw](https://undraw.co/):** Ilustrações gratuitas em SVG.
 - **[Dribbble](https://dribbble.com/)** Inspiração pra UI/UX.
 - **[Sveltekit](https://svelte.dev/docs/kit/introduction)**: framework moderno para web, SSR/SSG e API.
+- **[AppScreen](https://appscreen.pro/):** editor no navegador para criar screenshots da App Store e do Google Play (iPhone, iPad e Android), com plano gratuito e Pro em pagamento único.
 
 ## Internacionalização & Conteúdo
 - **Localize:** plataforma SaaS para tradução e i18n.
