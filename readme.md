@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[MeetNewAI](https://meetnewai.com/):** diretório gratuito de novas ferramentas de IA, jogos de IA e servidores MCP, organizados pelo trabalho que você precisa fazer.
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
