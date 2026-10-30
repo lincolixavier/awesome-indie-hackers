@@ -79,6 +79,7 @@
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
+- **[EarlyLore](https://earlylore.com/):** workspace de pesquisa para founders — estude produtos SaaS reais, sinais de receita e mudanças de concorrentes antes de construir.
 
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
