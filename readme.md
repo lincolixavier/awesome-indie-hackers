@@ -72,6 +72,7 @@
 - **GA4:** Analytics gratuito do Google
 - **Plausible:** analytics simples e sem cookies.  
 - **Simple Analytics:** analytics que prioriza a privacidade..  
+- **[Globatics](https://globatics.live/):** analytics web pago, em tempo real num globo, sem cookies por padrão.  
 
 ## Métricas de Produto
 - **PostHog:** analytics de produto e eventos.  
