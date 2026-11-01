@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[MEDIAPRONET](https://mediapronet.com/):** diretório curado para listar novas startups, ferramentas SaaS e produtos indie.  
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
