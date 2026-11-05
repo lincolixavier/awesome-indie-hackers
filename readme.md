@@ -98,6 +98,9 @@
 ## Gestão de Projetos & Tarefas
 - **[Jira](https://www.atlassian.com/software/jira):** rastreamento de issues e metodologias ágeis (Scrum/Kanban) com versão gratuita disponível.
 
+## Starter Kits & Boilerplates
+- **[Boilerplates Directory](https://boilerplates.directory/):** compara starter kits e boilerplates de SaaS por stack, modelo de preço e funcionalidades.
+
 Vou continuar adicionando outras ferramentas.
 
 .
