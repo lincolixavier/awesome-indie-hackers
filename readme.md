@@ -50,7 +50,8 @@
 - **Auth.js:** autenticação flexível para Node/Next.js.  
 
 ## Emails
-- **[Loops.so](http://loops.so/):** e-mails (Marketing/Campanhas/Transacionais) focado em saas.  
+- **[Loops.so](http://loops.so/):** e-mails (Marketing/Campanhas/Transacionais) focado em saas.
+- **[MailVeri](https://mailveri.com/):** verificação de e-mails em massa e via API (SMTP, catch-all, descartáveis); créditos pay-as-you-go que não expiram.
 - **[Resend](http://resend.com/):** e-mails transacionais.
 
 ## APIs & Serviços
