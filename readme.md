@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[KaijuConverter](https://kaijuconverter.com/pt):** API e conversor gratuito de arquivos e mídias (PDF, imagens, áudio, vídeo).  
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
