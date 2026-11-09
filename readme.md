@@ -72,6 +72,7 @@
 - **GA4:** Analytics gratuito do Google
 - **Plausible:** analytics simples e sem cookies.  
 - **Simple Analytics:** analytics que prioriza a privacidade..  
+- **[PageLens Analytics](https://pagelens.io/):** analytics sem cookies que também mostra quais páginas os bots de IA leem e as visitas e vendas que vêm do ChatGPT e do Perplexity.  
 
 ## Métricas de Produto
 - **PostHog:** analytics de produto e eventos.  
