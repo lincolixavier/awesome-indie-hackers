@@ -81,6 +81,7 @@
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
 
 ## Marketing
+- **[AdVariq](https://advariq.com/):** gerador de criativos de anúncios e visuais de marketing de produtos com IA para marcas DTC e e-commerce.  
 - **MailerLite:** e-mail marketing acessível.  
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
