@@ -85,6 +85,7 @@
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
+- **[Launchef](https://launchef.com):** plataforma gratuita para lançar seu produto, com upvotes ao vivo, reviews e backlink dofollow.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
 
 ## Comunidade & Suporte
