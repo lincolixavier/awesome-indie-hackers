@@ -30,6 +30,7 @@
 - **Localize:** plataforma SaaS para tradução e i18n.
 - **Crowdin:** gestão de traduções colaborativas.
 - **Content Collections:** schemas tipados para conteúdo estático (Markdown/MDX).
+- **[App Store Localizer](https://asolocalization.com):** localiza a ficha do app na App Store em 20+ idiomas a partir da URL pública — screenshots traduzidos + título, subtítulo, descrição e keywords por locale.
 - **[Shotlingo App Store Localization Checker](https://shotlingo.com/tools/app-store-localization-checker):** ferramenta gratuita (sem cadastro) pra checar se o nome, subtítulo e texto promocional do teu app ainda cabem depois de traduzidos — expansão de texto, largura visual e RTL pras 41 línguas da App Store.
 
 ## Pagamentos 
