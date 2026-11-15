@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[GetYouTubeTranscript](https://getyoutubetranscript.com/docs):** API de transcrições de vídeos do YouTube, busca e canais.  
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
