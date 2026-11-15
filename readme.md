@@ -85,7 +85,8 @@
 - **Loops.so:** automação de e-mails focada em SaaS.  
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
-- **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.
+- **[Awesome Indie](https://awesomeindie.com):** plataforma de lançamento diário pra produtos de indie makers, com ranking pela comunidade.
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
