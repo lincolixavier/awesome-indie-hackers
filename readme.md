@@ -56,6 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
+- **[HiAPI](https://hiapi.ai):** API unificada com uma chave para modelos de imagem, vídeo, áudio e texto (GPT Image, Seedance, Kling, Veo, DeepSeek, Claude, Grok, Qwen); pagamento por uso, preço público por modelo e reembolso automático quando a tarefa falha.  
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
