@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[Keyword Race](https://keywordrace.com):** pesquisa de palavras-chave da App Store para devs iOS indie: veja quais apps disputam uma palavra-chave e onde seu app aparece. Check grátis sem conta; plano pago é pagamento único vitalício.
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
