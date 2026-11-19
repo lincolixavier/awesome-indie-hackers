@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[Wavegrain](https://wavegrain.com/):** cria slideshows para TikTok e carrosséis para Instagram com a marca e as fotos do seu produto, e agenda e publica os posts (pago).
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
