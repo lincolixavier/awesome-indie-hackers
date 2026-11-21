@@ -12,6 +12,7 @@
 - **DigitalOcean VPS:** alternativa simples ao AWS/GCP, popular para indie devs.  
 - **Infisical:** gerenciador open source de segredos (secrets manager).  
 - **[VPS para rodar seu N8N](https://www.hostinger.com/br/hospedagem-n8n)** by [Ander](https://x.com/AnderPru)
+- **[deed.page](https://deed.page):** publica uma pasta ou arquivo HTML em um link permanente `https://<nome>.deed.page` via API, CLI ou MCP (funciona direto de agentes de IA); domínio próprio e histórico de versões; plano grátis.  
 
 ## Frontend & Design
 - **Next.js:** framework React popular para web e API.
