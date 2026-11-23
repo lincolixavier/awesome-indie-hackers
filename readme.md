@@ -43,6 +43,7 @@
 - **SecurityHeaders.com:** valida headers HTTP.  
 - **Snyk:** detecta falhas em dependências.
 - **[Cloudflare Turnstile](https://www.cloudflare.com/pt-br/application-services/products/turnstile/):** ferramenta de verificação para substituir CAPTCHAs.
+- **[VibeShield](https://vibe-checker.appwrite.network):** scanner passivo gratuito de pré-lançamento (116 verificações) para vazamento de chaves em JS, headers HTTP (Mozilla Observatory) e regras de Supabase/Firebase.
 
 ## Autenticação
 - **Clerk:** auth SaaS com UI pronta.  
