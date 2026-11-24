@@ -69,6 +69,11 @@
 
 ## Analytics
 - **[Himetrica](https://www.himetrica.com/):** Analytics BR feito pra SaaS.  
+- **[Transparência do Google Ads MCP: anúncios dos concorrentes](https://apify.com/publicrecords/google-ads-transparency-scraper)** - Anúncios do Google novos, ativos e encerrados de um concorrente, da Central de Transparência do Google Ads, com datas da primeira e última exibição (Apify).
+- **[Company Social MCP: do site ao LinkedIn e redes sociais](https://apify.com/publicrecords/company-social-profile-finder)** - Encontra os perfis de LinkedIn, X, YouTube, Instagram e Facebook de uma empresa pelo nome ou site, com evidências (Apify).
+- **[Busca no Etsy MCP: anúncios, preços e mais vendidos](https://apify.com/publicrecords/etsy-search-scraper)** - Resultados de busca do Etsy por palavra-chave ou categoria: preço, avaliação, resenhas, selo Bestseller, marca de anúncio e posição (Apify).
+- **[Vendas diárias de lojas Etsy MCP](https://apify.com/publicrecords/etsy-shop-velocity)** - Vendas diárias, de 7 e de 28 dias de mais de 370.000 lojas Etsy, medidas pelo contador público de vendas de cada loja (Apify).
+- **[Spotify MCP: reproduções e ouvintes mensais](https://apify.com/publicrecords/spotify-play-count-scraper)** - Reproduções no Spotify de cada faixa, mais ouvintes mensais e seguidores do artista, a partir de um link de faixa, álbum, playlist ou artista (Apify).
 - **GA4:** Analytics gratuito do Google
 - **Plausible:** analytics simples e sem cookies.  
 - **Simple Analytics:** analytics que prioriza a privacidade..  
