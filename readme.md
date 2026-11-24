@@ -21,6 +21,7 @@
 - **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas.
 - **Nuqs:** gerenciamento de estado via URL queries no React/Next.
 - **Figma:** padrão para protótipos de UI.
+- **[Kite](https://kite.new):** ferramenta de design com IA onde Claude, Cursor e Codex desenham telas editáveis via MCP; exporta HTML, React ou Tailwind. Plano gratuito.
 - **[Coolors](https://coolors.co/):** gerador de paletas de cores.
 - **[Undraw](https://undraw.co/):** Ilustrações gratuitas em SVG.
 - **[Dribbble](https://dribbble.com/)** Inspiração pra UI/UX.
