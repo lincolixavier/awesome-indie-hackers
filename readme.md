@@ -76,6 +76,7 @@
 ## Métricas de Produto
 - **PostHog:** analytics de produto e eventos.  
 - **Clarity:** mapas de calor e gravações de sessões gratuitos.  
+- **[Revenue Bear](https://www.yuzool.com/apps/revenue-bear/):** painel no iPhone que junta as vendas do App Store Connect, Stripe, Paddle, Gumroad, Lemon Squeezy e Polar, com MRR e alertas de venda.  
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
