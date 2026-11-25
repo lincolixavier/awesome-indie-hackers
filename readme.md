@@ -51,6 +51,7 @@
 
 ## Emails
 - **[Loops.so](http://loops.so/):** e-mails (Marketing/Campanhas/Transacionais) focado em saas.  
+- **[Mailtrap](https://mailtrap.io/):** e-mails transacionais e em massa via API e SMTP, com SDKs oficiais e webhooks.  
 - **[Resend](http://resend.com/):** e-mails transacionais.
 
 ## APIs & Serviços
