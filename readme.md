@@ -56,7 +56,7 @@
 ## APIs & Serviços
 - **Twilio:** SMS/WhatsApp e voz.  
 - **Algolia:** busca instantânea hospedada.  
-- **[UberLLM](https://uberllm.dev):** uma chave de API (compatível com OpenAI e Anthropic) para modelos de texto, imagem, vídeo e música, com preço abaixo da tabela; pré-pago, sem mensalidade.  
+- **[MartLLM](https://martllm.com):** uma chave de API (compatível com OpenAI e Anthropic) para modelos de texto, imagem, vídeo e música, com preço abaixo da tabela; pré-pago, sem mensalidade. Formerly UberLLM.
 
 ## Observabilidade
 - **Sentry:** captura de erros em produção.
