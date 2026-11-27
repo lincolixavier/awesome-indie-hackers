@@ -83,6 +83,7 @@
 - **[Mom Test Question Checker](https://nar-vardanyan.github.io/frank-mcp/tools/mom-test-checker/):** verifica perguntas de entrevista com clientes segundo os princípios de The Mom Test e aponta perguntas tendenciosas, hipotéticas ou que pedem elogios. Gratuito, sem login.
 - **[JTBD Switch Interview Question Generator](https://nar-vardanyan.github.io/frank-mcp/tools/jtbd-interview-question-generator/):** gera um guia de entrevista JTBD (switch interview) com sondas classificadas em push, pull, anxiety ou habit, para clientes que chegaram ou que saíram. Gratuito, sem login.
 - **[Cancellation Reason Sorter](https://nar-vardanyan.github.io/frank-mcp/tools/cancellation-reason-sorter/):** agrupa respostas de cancelamento em temas e sugere perguntas de follow-up. Gratuito, sem login.
+- **[Customer Interview Sample Size Planner](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-sample-size-planner/):** sugere uma faixa de quantas entrevistas com clientes rodar, com base no objetivo e nos segmentos, a partir de quatro estudos publicados. Gratuito, sem login.
 - **[Customer Research Glossary](https://nar-vardanyan.github.io/frank-mcp/glossary/):** glossário de dez termos de pesquisa com clientes, incluindo JTBD, The Mom Test, entrevistas de churn e perguntas tendenciosas.
 
 ## Marketing
