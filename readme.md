@@ -79,6 +79,8 @@
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
+- **[Mom Test Question Checker](https://nar-vardanyan.github.io/frank-mcp/tools/mom-test-checker/):** verifica perguntas de entrevista com clientes segundo os princípios de The Mom Test e aponta perguntas tendenciosas, hipotéticas ou que pedem elogios. Gratuito, sem login.
+- **[JTBD Switch Interview Question Generator](https://nar-vardanyan.github.io/frank-mcp/tools/jtbd-interview-question-generator/):** gera um guia de entrevista JTBD (switch interview) com sondas classificadas em push, pull, anxiety ou habit, para clientes que chegaram ou que saíram. Gratuito, sem login.
 
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
