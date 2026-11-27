@@ -76,11 +76,14 @@
 ## Métricas de Produto
 - **PostHog:** analytics de produto e eventos.  
 - **Clarity:** mapas de calor e gravações de sessões gratuitos.  
+- **[Cancel-Page Churn Survey Widget](https://nar-vardanyan.github.io/frank-mcp/tools/churn-interview-widget/):** widget open source para a página de cancelamento: o cliente diz por que está saindo e o cancelamento segue. Snippets para Stripe e Paddle.
 
 ## Pesquisa de Ideias
 - **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
 - **[Mom Test Question Checker](https://nar-vardanyan.github.io/frank-mcp/tools/mom-test-checker/):** verifica perguntas de entrevista com clientes segundo os princípios de The Mom Test e aponta perguntas tendenciosas, hipotéticas ou que pedem elogios. Gratuito, sem login.
 - **[JTBD Switch Interview Question Generator](https://nar-vardanyan.github.io/frank-mcp/tools/jtbd-interview-question-generator/):** gera um guia de entrevista JTBD (switch interview) com sondas classificadas em push, pull, anxiety ou habit, para clientes que chegaram ou que saíram. Gratuito, sem login.
+- **[Cancellation Reason Sorter](https://nar-vardanyan.github.io/frank-mcp/tools/cancellation-reason-sorter/):** agrupa respostas de cancelamento em temas e sugere perguntas de follow-up. Gratuito, sem login.
+- **[Customer Research Glossary](https://nar-vardanyan.github.io/frank-mcp/glossary/):** glossário de dez termos de pesquisa com clientes, incluindo JTBD, The Mom Test, entrevistas de churn e perguntas tendenciosas.
 
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
