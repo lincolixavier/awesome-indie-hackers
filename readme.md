@@ -86,6 +86,7 @@
 - **Beehiiv:** newsletters com foco em criadores.  
 - **Crisp:** chat de suporte no site.  
 - **[Curso de Marketing pra Devs](https://go.hotmart.com/V84728655X):** Feito pela Danki Code.  
+- **[Tweenery](https://tweenery.com):** agente de IA que transforma uma ideia ou um post que você curtiu em um carrossel pro Instagram ou slideshow pro TikTok pronto pra postar. Tem plano gratuito.
 
 ## Comunidade & Suporte
 - **Docusaurus:** documentação estilo docs.dev.  
